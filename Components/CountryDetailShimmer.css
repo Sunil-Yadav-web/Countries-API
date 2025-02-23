@@ -1,0 +1,61 @@
+.shimmer-btn {
+  display: block;
+  width: 105px;
+  background-color: #ccc;
+  height: 33px;
+}
+.flag-box {
+  width: 75%;
+  height: 320px;
+  background-color: #ccc;
+}
+
+.text-box {
+  height: 320px;
+  width: 100%;
+}
+
+.h1-box {
+  height: 50px;
+  background-color: #ccc;
+  width: 30%;
+  border-radius: 24px;
+  margin-block: 22px;
+}
+
+.p-box {
+  background-color: #ccc;
+  width: 45%;
+  height: 28px;
+  border-radius: 14px;
+}
+
+.border-shimmer {
+  background-color: #ccc;
+  width: 20%;
+  height: 28px;
+  border-radius: 14px;
+}
+
+.border-span-shimmer {
+  display: block;
+  background-color: #ccc;
+  width: 12%;
+  height: 28px;
+  border-radius: 14px;
+}
+
+.border-span-con {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  gap: 8px;
+  margin-top: 48px;
+}
+
+.border-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
